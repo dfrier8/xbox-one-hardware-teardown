@@ -29,7 +29,7 @@ After opening the enclosure, I located and removed the wireless networking modul
 * Carefully disconnected the antenna and removed the wireless module.
 * Preserved the module and connections for later reinstallation.
 
-
+![Phase 2 - Wireless Network Module](IMG_4438.jpeg)
 
 ⸻
 
@@ -46,7 +46,7 @@ Components identified included:
 * Motherboard — primary circuit board connecting the system hardware.
 * Internal power and data cabling — connects storage, optical, and other internal components.
 
-📸 Insert: Full internal overview showing the exposed components.
+![Phase 3 - Internal Chassis Access](IMG_4475.jpeg)
 
 ⸻
 
@@ -59,7 +59,7 @@ I continued the teardown by removing several major internal assemblies.
 * Removed the front-panel/front I/O board assembly.
 * Identified and maintained the associated power and data connections for reassembly.
 
-📸 Insert: Photo showing the HDD, optical drive, and front-panel board removed and laid out.
+![Phase 4 - Internal Component Removal](IMG_4478.jpeg)
 
 ⸻
 
@@ -80,7 +80,7 @@ Cleaning included:
 
 The heatsink remained installed after worn/contaminated fasteners began showing signs of stripping. Further removal was stopped to avoid unnecessary damage to the hardware.
 
-📸 Insert: Photo of the cleaned components and cleaning equipment.
+![Phase 5 - Cleaning and Preventative Maintenance](IMG_4479.jpeg)
 
 ⸻
 
@@ -98,7 +98,11 @@ After cleaning and inspection, I reassembled the Xbox One in reverse order.
 * Reconnected the front-panel ribbon connection.
 * Reinstalled and secured the exterior enclosure.
 
-📸 Insert your three reassembly photos here in chronological order.
+![Phase 6 - Reassembly Step 1](IMG_4480.jpeg)
+
+![Phase 6 - Reassembly Step 2](IMG_4481.jpeg)
+
+![Phase 6 - Reassembly Step 3](IMG_4483.jpeg)
 
 ⸻
 
