@@ -120,7 +120,7 @@ The console successfully:
 
 The successful wireless connection also verified that the wireless networking module and antenna removed earlier in the teardown were properly reinstalled.
 
-📸 Insert: Final Xbox Network settings photo showing active 5 GHz Wi-Fi, IPv4/IPv6 connectivity, and available Xbox services.
+![Phase 7 - Functional Verification](IMG_4485.jpeg)
 
 ⸻
 
