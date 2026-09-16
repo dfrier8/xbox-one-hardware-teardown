@@ -17,8 +17,7 @@ I began the teardown by carefully removing the Xbox One’s exterior enclosure.
 * Inspected the system for accumulated dust and debris.
 * Documented the original condition before cleaning.
 
-
-
+![Phase 1 - Top Shell Removal](IMG_4437.jpeg)
 ⸻
 
 Phase 2 – Wireless Network Module
@@ -30,7 +29,7 @@ After opening the enclosure, I located and removed the wireless networking modul
 * Carefully disconnected the antenna and removed the wireless module.
 * Preserved the module and connections for later reinstallation.
 
-📸 Insert: Close-up photo of removed wireless networking module.
+
 
 ⸻
 
